@@ -9,7 +9,11 @@ namespace Tyrrrz.Settings.Tests
         [TestMethod]
         public void InstantiateTest()
         {
+<<<<<<< HEAD
             // TEST-Main
+=======
+            // TEST-dev
+>>>>>>> dev
             var stager = new Stager<MockSettingsManager>();
 
             // Make sure both instances exist and are not the same
